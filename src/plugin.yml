@@ -1,0 +1,6 @@
+name: EnderFurnace
+main: enderfurnace.Main
+version: 0.0.1
+commands:
+  enderfurnace:
+    permission: enderfurnace.create
